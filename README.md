@@ -42,27 +42,32 @@ I learn by building real-world projects and continuously improving my developmen
 
 ## Featured Projects
 
-### Yamsu Chance Fashion
+### [Yamsu Chance Fashion](https://github.com/Roby-ggc/yamsu_fashion)
 
-An e-commerce web application built with Django.
+E-commerce web application built with Django.
 
 **Focus:**  
 E-commerce • Product management • Online shopping • Payment integration • Deployment
 
+**Live:** [yamsu-fashion.onrender.com](https://yamsu-fashion.onrender.com)
+
 ### ERS Global
 
-A professional website developed for École des Rois et Sacrificateurs, presenting the organization, teachings, activities, events and digital content, with online donation functionality.
+Professional website developed for École des Rois et Sacrificateurs.
+
+The project focuses on presenting the organization, teachings, activities, events and digital content, with online donation functionality.
 
 **Focus:**  
 Django • Content management • Responsive design • Online donations • Deployment
 
-### ROBY Portfolio
+### [ROBY Portfolio](https://github.com/Roby-ggc/roby-portfolio)
 
-My personal developer portfolio, built with HTML, CSS and JavaScript.
+Personal developer portfolio built with HTML, CSS and JavaScript.
 
 **Focus:**  
 Responsive design • Frontend development • Personal branding • GitHub Pages
 
+**Live:** [roby-ggc.github.io/roby-portfolio](https://roby-ggc.github.io/roby-portfolio/)
 ---
 
 ## What I Build
